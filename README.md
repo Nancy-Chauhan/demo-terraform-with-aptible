@@ -24,7 +24,7 @@ Clone the repository and follow the steps:
    3. Run `terraform plan`
    4. Read the plan, if all looks good, then apply - `terraform apply` and approve when asked 'yes'.
  
-### 2.Configuring Postgres DB for grafana and substitue the config value in `.env` file
+### 2. Configuring Postgres DB for grafana and substitue the config value in `.env` file
 
 #### Configuring the Database
 
